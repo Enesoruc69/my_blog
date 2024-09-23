@@ -14,3 +14,6 @@ My Blog is a simple yet functional blog website built using HTML, CSS, and JavaS
 - HTML5: For the structure and content.
 - CSS3: For styling and responsive design.
 - JavaScript: For adding interactive elements and functionality.
+
+
+![GIF](my_blog/blog.gif)
